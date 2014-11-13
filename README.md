@@ -10,7 +10,7 @@ New change added
 
 These are changes on nextgen branch
 
-uncommitted chges on nextgen
+uncommitted merged chges
 
 After forking this repository, you can make some changes to the project, and submit [a Pull Request](https://github.com/octocat/Spoon-Knife/pulls) as practice.
 
